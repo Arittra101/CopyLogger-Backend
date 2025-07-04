@@ -11,5 +11,4 @@ export interface IUser {
     address?: string;
 }
 
-
 // export type IUserMethods extends Model <IUser>{}
